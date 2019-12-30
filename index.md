@@ -1,3 +1,3 @@
-# Welcome to my blog
+# GitHub Pages test
 
-I'm glad you are here. I plan to talk about ...
+[github](https://github.com/mizukirc)
