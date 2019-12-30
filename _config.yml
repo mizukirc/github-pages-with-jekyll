@@ -4,6 +4,6 @@ author: H2O
 email: mizuki.job@gmail.com
 
 # social links
-github_username: mizukirc
+[mizukirc@github](https://github.com/mizukirc)
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: True # set to false to remove excerpts on the homepage
