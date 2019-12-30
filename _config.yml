@@ -2,8 +2,6 @@ theme: minima
 title:  
 author: mizukirc
 email: mizuki.job@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write 
 
 # social links
 github_username: mizukirc
