@@ -6,4 +6,4 @@ email: mizuki.job@gmail.com
 # social links
 github_account: https://github.com/mizukirc)
 
-show_excerpts: True # set to false to remove excerpts on the homepage
+show_excerpts: False # set to false to remove excerpts on the homepage
